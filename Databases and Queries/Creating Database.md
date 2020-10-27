@@ -47,6 +47,7 @@ INSERT INTO <table_name> (
 VALUES (
     <value_1>, <value_2>
 );
+```
 - VARCHAR, CHAR and DATE all use quotes for their VALUES
 - An INSERT statement including DECIMAL and INT does not use and quotes
 
