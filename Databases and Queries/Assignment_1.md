@@ -46,7 +46,7 @@ Questions
 
 
 ## ERD
-![](Images\ERD.png)
+![](Images/ERD.png)
 
 
 ## Azure Code
