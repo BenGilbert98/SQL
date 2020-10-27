@@ -2,7 +2,7 @@
 
 
 ## ERD
-![](Images\ERD.png)
+![](C:\Users\bengi\Sparta\SQL\Databases and Queries\Images\ERD.png)
 
 
 ## Azure Code
