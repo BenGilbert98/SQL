@@ -1,5 +1,49 @@
 # Task
 
+We have been tasked with drawing out the DB to our amazing online book store startup called booksareus.io (this is an example)
+
+The ideas is a Users can come in a rent out Ebooks to read! Amazing! Also User can choose to write a Ebook! Even more Amazing!
+
+
+## Specifications
+
+At the core of most product you have people or users. Let’s draw this out first.
+We should have User
+
+A user must have:
+
+- email,
+- phone number
+- name.
+
+Each Ebook has:
+
+- title
+- location
+- release date
+- User who create it!
+
+Each booking has:
+
+- what ebook
+- who rented the book
+- date
+- price
+
+Todo:
+
+- Draw out the above tables
+- Each field
+- Add the foreign keys
+
+Questions
+
+- What is the relationship between the tables?
+- Who belongs to whom?
+- Can user rent out books?
+- how many 1:N relationships are there?
+- Do we have or do we need a N:N relationship?
+
 
 ## ERD
 ![](Images\ERD.png)
