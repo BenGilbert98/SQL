@@ -70,3 +70,5 @@ UPDATE <table_name>
     SET <column_name> = <value>
     WHERE <column_name> = <value>
 ```
+- If you need to change the contents of a table, use the UPDATE statement.
+- Beware of leaving out the WHERE clause, as it will update the whole table
