@@ -25,7 +25,7 @@ CREATE TABLE <table_name>(
 ```
 
 ## Commands
-
+This section will show commands to create and modify tables.
 ### Alter
 Can be used to RENAME, MODIFY, ADD or DROP columns or change to NOT NULL 
 Examples below:
