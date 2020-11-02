@@ -170,3 +170,19 @@ GROUP BY <column_names>
 HAVING <subtotal>
 HAVING <grouped_data>
 ```
+
+## Joins
+- INNER JOIN - will return any rows where there is a matched key in both tables
+- LEFT JOIN - will return all rows from left and matched rows from the right regardless of matching entry
+- RIGHT JOIN - will return all rows from right and matched rows from the left regardless of matching entries from the right table
+- FULL - Joins everything
+- FULL OUTER - Joins everything without the inner values
+
+Example 
+``` 
+SELECT <table1>.<column1>, <table2>.<column2>
+FROM <table1>
+INNER JOIN <table2> 
+ON <table1>.<matching_column> = <table2>.<matching_column>
+```
+
